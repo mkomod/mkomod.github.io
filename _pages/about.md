@@ -12,7 +12,7 @@ profile:
 
 news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
 
@@ -22,5 +22,4 @@ social: false # includes social icons at the bottom of the page
 
 <p> Prior to my PhD I completed a MSc. in Statistics at Imperial and BSc. in Statistics, Economics and Finance at UCL.
 
-<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me</a> or connect on any of my socials <a href="https://www.linkedin.com/in/mkomodromos/"><i class="fa-brands fa-linkedin"></i>LinkedIn</a>  <a href="https://wwww.github.com/mkomod"><i class="fa fa-brands fa-github"></i>Github</a>  <a href="https://scholar.google.co.uk/citations?user=gFvKPnkAAAAJ&hl=en">Google scholar<i class="ai ai-google-scholar"></i> </a> 
-
+<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me</a> or connect on any of my socials below.
