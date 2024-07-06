@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://mkomod.github.io/about//sitemap.xml
+Sitemap: https://mkomod.github.io//sitemap.xml
