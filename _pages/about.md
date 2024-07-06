@@ -24,6 +24,5 @@ social: false # includes social icons at the bottom of the page
 
 <p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a>. 
 
-<p> <a href="https://www.linkedin.com/in/mkomodromos/"><i class="fab fa-linkedin"></i></a> | <a href="https://wwww.github.com/mkomod"> <i class="fab fa-github"></i></a> | <a href="https://scholar.google.co.uk/citations?user=gFvKPnkAAAAJ&hl=en"> <i class="ai ai-google-scholar"></i></a> 
-
+<p> <a href="https://www.linkedin.com/in/mkomodromos/"> <i class="ai ai-linkedin"></i> </a> | <a href="https://wwww.github.com/mkomod"> <i class="ai ai-github"></i> </a> | <a href="https://scholar.google.co.uk/citations?user=gFvKPnkAAAAJ&hl=en"> <i class="ai ai-google-scholar"></i> </a> 
 
