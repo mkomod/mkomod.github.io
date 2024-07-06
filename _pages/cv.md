@@ -7,4 +7,6 @@ nav_order: 5
 description:
 ---
 
-<object data="../assets/pdf/cv.pdf" type='application/pdf'></object>
+<div class="embed-responsive embed-responsive-16by9">
+    <object class="embed-responsive-item" data="../assets/pdf/cv.pdf" type='application/pdf'></object>
+</div>
