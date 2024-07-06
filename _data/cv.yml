@@ -1,13 +1,3 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Michael Komodromos
-    - name: Date of Birth
-      value: 
-    - name: Languages
-      value: 
-
 - title: Education
   type: time_table
   contents:
