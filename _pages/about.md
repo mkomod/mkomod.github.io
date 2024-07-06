@@ -20,11 +20,12 @@ social: false # includes social icons at the bottom of the page
 
 Broadly, I'm interested in:
 
-- Variational inference
-- High-dimensional statistics
-- Gaussian processes
-- Variable selection
-
+<ul>
+ <li> Variational inference
+ <li> High-dimensional statistics
+ <li> Gaussian processes
+ <li> Variable selection
+</ul>
 
 <p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a>
 
