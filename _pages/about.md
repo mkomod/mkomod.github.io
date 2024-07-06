@@ -18,9 +18,12 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-top: 1.2rem"> I'm a PhD student in Statistics and Machine Learning part of the <a href="https://www.statml.io">StatML CDT</a>. I work alongside Imperial's Cancer Research centre and develop statistical methods aimed at cancer diagnosis and prognosis. 
 
+<p> Prior to my PhD I completed a MSc. in Statistics at Imperial and BSc. in Statistics, Economics and Finance at UCL.
+
 <p> Broadly, I'm interested in: variational inference, high-dimensional statistics, Gaussian processes and variable selection.
 
-<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a>
+<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a>. 
 
-<p> Prior to my PhD I completed a MSc. in Statistics at Imperial and BSc. in Statistics, Economics and Finance at UCL.
+<p> <a href="https://www.linkedin.com/in/mkomodromos/"><i class="fab fa-linkedin"></i></a> | <a href="https://wwww.github.com/mkomod"> <i class="fab fa-github"></i></a> | <a href="https://scholar.google.co.uk/citations?user=gFvKPnkAAAAJ&hl=en"> <i class="ai ai-google-scholar"></i></a> 
+
 
