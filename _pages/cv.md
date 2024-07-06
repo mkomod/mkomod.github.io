@@ -8,5 +8,5 @@ description:
 ---
 
 <div class="row">
-    <object class="embed-responsive-item" data="../assets/pdf/cv.pdf" type='application/pdf', style="width: 100%, height: 1000px"></object>
+    <object class="embed-responsive-item" data="../assets/pdf/cv.pdf" type='application/pdf', style="width: 100%; height: 1000px"></object>
 </div>
