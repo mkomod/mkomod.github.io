@@ -10,7 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
@@ -23,3 +23,4 @@ social: false # includes social icons at the bottom of the page
 <p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a>
 
 <p> Prior to my PhD I completed a MSc. in Statistics at Imperial and BSc. in Statistics, Economics and Finance at UCL.
+
