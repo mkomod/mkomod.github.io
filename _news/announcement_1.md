@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I'll be attending ICML this year to present my work on Logistic Variational Bayes. If you're around please do send me a message, you can reach me <a href="mailto:mk1019@ic.ac.uk">here</a>
+I'll be attending ICML this year to present my work on <a href="/assets/pdf/viper.pdf">Logistic Variational Bayes</a>. If you're around please do send me a message, you can reach me <a href="mailto:mk1019@ic.ac.uk">here</a>
