@@ -22,5 +22,5 @@ social: false # includes social icons at the bottom of the page
 
 <p> Broadly, I'm interested in: variational inference, high-dimensional statistics, Gaussian processes and variable selection.
 
-<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a> or connect on any of my socials <a href="https://www.linkedin.com/in/mkomodromos/"> <i class="fa-brands fa-linkedin"></i> </a> | <a href="https://wwww.github.com/mkomod"> <i class="fa fa-brands fa-github"></i> </a> | <a href="https://scholar.google.co.uk/citations?user=gFvKPnkAAAAJ&hl=en"> <i class="ai ai-google-scholar"></i> </a> 
+<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me</a> or connect on any of my socials <a href="https://www.linkedin.com/in/mkomodromos/"> <i class="fa-brands fa-linkedin"></i> </a> | <a href="https://wwww.github.com/mkomod"> <i class="fa fa-brands fa-github"></i> </a> | <a href="https://scholar.google.co.uk/citations?user=gFvKPnkAAAAJ&hl=en"> <i class="ai ai-google-scholar"></i> </a> 
 
