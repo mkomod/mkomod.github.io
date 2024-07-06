@@ -18,12 +18,7 @@ social: false # includes social icons at the bottom of the page
 
 <p style="margin-top: 1.2rem"> I'm a PhD student in Statistics and Machine Learning part of the <a href="https://www.statml.io">StatML CDT</a>. I work alongside Imperial's Cancer Research centre and develop statistical methods aimed at cancer diagnosis and prognosis. 
 
-Broadly, I'm interested in:
-
- <p> <li> Variational inference
- <p> <li> High-dimensional statistics 
- <p> <li> Gaussian processes
- <p> <li> Variable selection
+<p> Broadly, I'm interested in: variational inference, high-dimensional statistics, Gaussian processes and variable selection.
 
 <p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me.</a>
 
