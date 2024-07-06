@@ -1,9 +1,10 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: cv.pdf
 description:
 ---
+
+<object data="../assets/pdf/cv.pdf" type='application/pdf'></object>
