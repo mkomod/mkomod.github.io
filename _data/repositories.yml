@@ -1,8 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
 
 repo_description_lines_max: 2
 
 github_repos:
   - mkomod/vi-per
+  - mkomod/gsvb
+  - mkomod/survival.svb
