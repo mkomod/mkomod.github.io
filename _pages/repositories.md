@@ -38,6 +38,10 @@ nav_order: 2
 
 {% if site.data.repositories.github_repos %}
 
+## Repositories
+
+Below are some of the repositories I have worked on. Most of these are implementations of methodology which I have created and published in peer reviewed journals. For a full list, please visit my [GitHub profile](https://github.com/{{ site.github_username }}).
+
 <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
   {% for repo in site.data.repositories.github_repos %}
     {% include repository/repo.liquid repository=repo %}
