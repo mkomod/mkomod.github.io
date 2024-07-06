@@ -7,6 +7,6 @@ nav_order: 3
 description:
 ---
 
-<div class="embed-responsive embed-responsive-16by9">
-    <object class="embed-responsive-item" data="../assets/pdf/cv.pdf" type='application/pdf'></object>
+<div class="row">
+    <object class="embed-responsive-item" data="../assets/pdf/cv.pdf" type='application/pdf', style="width: 100%"></object>
 </div>
