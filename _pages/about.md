@@ -16,10 +16,8 @@ social: true # includes social icons at the bottom of the page
 ---
 
 
-<p style="margin-top: 1.2rem"> I'm a PhD student in Statistics and Machine Learning part of the <a href="https://www.statml.io">StatML CDT</a>. I work alongside Imperial's Cancer Research centre and develop statistical methods aimed at cancer diagnosis and prognosis. 
+<p style="margin-top: 1.2rem"> I'm a quant researcher specializing in mid-frequency equities, with a focus on event-driven strategies.
 
-<p> Broadly, I'm interested in: variational inference, high-dimensional statistics, Gaussian processes and variable selection.
+<p> I hold a PhD student in Statistics and Machine Learning, and was part of the <a href="https://www.statml.io">StatML CDT</a> where I worked alongside Imperial's Cancer Research centre.
 
-<p> Prior to my PhD I completed a MSc. in Statistics at Imperial and BSc. in Statistics, Economics and Finance at UCL.
-
-<p> If you'd like to get in touch, feel free to <a href="mailto:mk1019@ic.ac.uk">e-mail me</a> or connect on any of my socials below.
+<p> If you'd like to get in touch, feel free to connect on any of my socials below.
